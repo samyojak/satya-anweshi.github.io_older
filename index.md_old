@@ -1,123 +1,45 @@
 ---
 layout: default
+title: Satyanweshi : In the search of Truth
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+###पिछले कई विफल प्रयाशों के बाद मेरा एक और प्रयाश ब्लॉग लिखने का। आशा करता हूँ की यह प्रयाश विफल नहीं होगा। यह ब्लॉग मैं एक हिंदी कविता के साथ आरम्भ करने जा रहा हूँ।  यह हिंदी कविता राष्ट्रकवि दिनकर जी द्वारा लिखी गयी है, इस कविता में दिनकर जी ने मनुष्य के प्रयासों और सफलताओं की प्रसंशा की है।  यह कविता मुझे सतत प्रयाश करते रहने की प्रेरणा देती है। आशा करता हूँ की यह कविता आपको पसंद आएगी। 
 
-[Link to another page](./another-page.html).
+# रात यों कहने लगा मुझसे गगन का चाँद
 
-There should be whitespace between paragraphs.
+रात यों कहने लगा मुझसे गगन का चाँद, 
+आदमी भी क्या अनोखा जीव होता है! 
+उलझनें अपनी बनाकर आप ही फँसता, 
+और फिर बेचैन हो जगता, न सोता है। 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+जानता है तू कि मैं कितना पुराना हूँ? 
+मैं चुका हूँ देख मनु को जनमते-मरते; 
+और लाखों बार तुझ-से पागलों को भी 
+चाँदनी में बैठ स्वप्नों पर सही करते। 
 
-# Header 1
+आदमी का स्वप्न? है वह बुलबुला जल का;
+आज उठता और कल फिर फूट जाता है;
+किन्तु, फिर भी धन्य; ठहरा आदमी ही तो? 
+बुलबुलों से खेलता, कविता बनाता है। 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+मैं न बोला, किन्तु, मेरी रागिनी बोली, 
+देख फिर से, चाँद! मुझको जानता है तू?
+स्वप्न मेरे बुलबुले हैं? है यही पानी? 
+आग को भी क्या नहीं पहचानता है तू?
 
-## Header 2
+मैं न वह जो स्वप्न पर केवल सही करते, 
+आग में उसको गला लोहा बनाती हूँ, 
+और उस पर नींव रखती हूँ नये घर की, 
+इस तरह दीवार फौलादी उठाती हूँ। 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+मनु नहीं, मनु-पुत्र है यह सामने, जिसकी 
+कल्पना की जीभ में भी धार होती है,
+वाण ही होते विचारों के नहीं केवल, 
+स्वप्न के भी हाथ में तलवार होती है। 
 
-### Header 3
+स्वर्ग के सम्राट को जाकर खबर कर दे,
+"रोज ही आकाश चढ़ते जा रहे हैं वे,
+रोकिये, जैसे बने इन स्वप्नवालों को, 
+स्वर्ग की ही ओर बढ़ते आ रहे हैं वे।" 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+##रामधारी सिंह "दिनकर"
