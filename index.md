@@ -12,11 +12,11 @@ I have M.Tech(2017) in Computer Science from [Indian Statistical Institute](http
 * 	Machine Learning
 * 	Optimization and Optimal Control
 * 	Stochastic Calculus
-* 	Quntum Mechanics and Computing
-* 	Signal Processing
-* 	Mathematical Finance
-* 	Anthropometry and Human Growth
+*       Mathematical Finance
+*       Signal Processing
+* 	Quantum Mechanics & Computing
+* 	Anthropometry & Human Growth
 
-I love hindi poetry and urdu gazhals.
+I love hindi poetry and urdu ghazals.
 
 To contact me , you can ring me on +91-720-8129-280 or send me mail on [rjmishra111@gmail.com](mailto:rjmishra111@gmail.com).
