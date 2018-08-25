@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satyanweshi : In the search of Truth
+title: "In the search of Truth"
 date: 2018-08-15
 tags: [poems, hindi]
 
