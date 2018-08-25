@@ -6,7 +6,7 @@ title: "Satyanweshi : In the search of Truth"
 
 My name is **Ranjan Mishra**, I am [software engineer](https://en.wikipedia.org/wiki/Software_engineer) and [data scientist](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Data_science). My job involves solving real world complex problems using mathematics and computer science. 
 
-I have obtained M.Tech(2017) in Computer Science from [Indian Statistical Institute](https://en.wikipedia.org/wiki/Indian_Statistical_Institute) and B.Tech(2012) in Information Technology from [SASTRA UNIVERSITY](https://en.wikipedia.org/wiki/Shanmugha_Arts,_Science,_Technology_%26_Research_Academy).
+I have M.Tech(2017) in Computer Science from [Indian Statistical Institute](https://en.wikipedia.org/wiki/Indian_Statistical_Institute) and B.Tech(2012) in Information Technology from [SASTRA UNIVERSITY](https://en.wikipedia.org/wiki/Shanmugha_Arts,_Science,_Technology_%26_Research_Academy).
 
 ##### Few of the fields I am interested in, are
 * 	Machine Learning
