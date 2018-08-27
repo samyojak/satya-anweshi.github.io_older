@@ -34,10 +34,10 @@ $$
 \sum_{v \in V} degree(v) = 2 \left| E \right |
 $$
 
-Average degree of a vertex is given as
+Average or expected degree of a vertex is given as
 
 $$
-\E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
+Exp[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
 $$
 
 
