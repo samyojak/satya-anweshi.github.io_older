@@ -52,11 +52,12 @@ Consider cut for V into S and T, where S contains only one vertex u and T contai
 
 size of minimum cut <= degree(u)
 
-In other words minimum cut is also less than or equal to average degree of vertices in G.
+In other words minimum cut is also less than or equal to average degree of vertices in G. Hence size of minimum cut is atmost
 
-$$ size of minimum cut <= $$\frac{2|E|}{|V|} $$
+$$\frac{2|E|}{|V|} $$
 
-Since there are maximum 2|E|/|V| edges in minimum cut, selecting an edge from minimum cut out of total has probability at most 2/|V|. If we pick an edge randomly, probability it will be in cut have probability at most 2/|V|. 
+
+There are maximum 2|E|/|V| edges in minimum cut, selecting an edge from minimum cut out of total has probability at most 2/|V|. If we pick an edge randomly, probability it will be in cut have probability at most 2/|V|. 
 
 $$ (1 - \frac{2}{|V|}) (1 - \frac{2}{|V|-1} ) (1 - \frac{2}{|V|-2}) (1 - \frac{2}{|V|-3}) .. (1-\frac{2}{4})(1-\frac{2}{3})
 $$
