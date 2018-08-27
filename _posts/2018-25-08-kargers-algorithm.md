@@ -54,4 +54,18 @@ size of minimum cut <= degree(u)
 
 In other words minimum cut is also less than or equal to average degree of vertices in G.
 
-We pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is $$ \frac{2}{|V|} $$.
+size of minimum cut <= $$\frac{2{E|}{|V|} $$
+
+Since there are maximum $$\frac{2{E|}{|V|} edges in minimum cut, selecting an edge from it out of total |E| edges is $$\frac{2}{|V|}$$. If we pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is  $$\frac{2}{|V|}$$. Hence edge does not lie in the cut is $$ 1 - \frac{2}{|V|}$$. If we continue with the algorithm and do edge contraction each time, the probability that edge from cut will not be contracted, which is same as final result to be minimum cut is 
+
+$$ (1 - \frac{2}{|V|}) (1 - \frac{2}{|V|-1} ) (1 - \frac{2}{|V|-2}) (1 - \frac{2}{|V|-3}
+$$
+
+$$ = (\frac{|V|-2}{|V|})(\frac{|V|-3}{|V|-1}) .. (\frac{2}{4}) (\frac{1}{3})
+$$
+
+$$= \frac{2}{|V|(|V|-1)}$$
+
+Hence algorithm succeeds with probability $$\frac{2}{n^2}$$. We can repeat the algorithm for $$n^2$$ times and chose the smallest cut.
+
+This algorithm can be generalized to stop at any number of vertices. We can stop edge contraction reaching specified number of vertices. Which can be useful in community detection in social network, where each merged vertex can be a community.
