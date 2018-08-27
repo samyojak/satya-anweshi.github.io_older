@@ -56,7 +56,7 @@ In other words minimum cut is also less than or equal to average degree of verti
 
 $$ size of minimum cut <= \frac{2|E|}{|V|} $$
 
-Since there are maximum $$ \frac{2|E|}{|V|} $$ edges in minimum dut, selecting an edge from it out of total $$ |E| $$ edges is $$ \frac{2}{|V|} $$.
+Since there are maximum $$\frac{2|E|}{|V|}$$ edges in minimum dut, selecting an edge from it out of total $$|E|$$ edges is $$\frac{2}{|V|}$$.
 
 
 $$ (1 - \frac{2}{|V|}) (1 - \frac{2}{|V|-1} ) (1 - \frac{2}{|V|-2}) (1 - \frac{2}{|V|-3}) .. (1-\frac{2}{4})(1-\frac{2}{3})
