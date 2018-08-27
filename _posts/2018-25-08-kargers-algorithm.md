@@ -12,9 +12,9 @@ A set of vertices V along with set of edges E connecting these vertices in is ca
 ![Flights]({{site.baseurl}}/assets/img/flight.png)
 
 ## Minimum Cut
-A cut in an undirected graph $$ G=(V,E) $$ is a partition of the vertices V into two non-empty, disjoint sets $$ S \bigcup T = V $$. Cutset of cut consits of the only edges connecting the vertcies in S to vertices in T. Number of edges in cutset is called size of cut. The cut with minimum size is called minimum cut.
+A cut in an undirected graph $$ G=(V,E) $$ is a partition of the vertices V into two non-empty, disjoint sets $$ S \cup T = V $$. Cutset of cut consits of the only edges connecting the vertcies in S to vertices in T. Number of edges in cutset is called size of cut. The cut with minimum size is called minimum cut.
 
-Each vertex can be in either in set S or set T, hence there are $$ 2^V $$ cuts. Out of these two sets are empty, also interchanging S and T does not make any difference. Hence total valid cuts are $$ 2^{V-1} -1 $$. We need to find cut with minimum size among all cuts.
+Each vertex can be in either in set S or set T, hence there are $$ 2^{\left| V \right|} $$ cuts. Out of these two sets are empty, also interchanging S and T does not make any difference. Hence total valid cuts are $$ 2^{\left| V \right| -1} -1 $$. We need to find cut with minimum size among all cuts.
 
 ## Edge Contraction
 Edge contraction is method to remove an edge from graph and merge its two incident vertcies. For example if we remove edge Delhi-Chandigarh, then new graph will look like
@@ -28,7 +28,21 @@ Karger's algorithm uses edge contraction to find minimum cut. It selects an edge
 This algorthm is example of randomized algorithm which does random operations to achieve the solution.
 
 ## Analysis
-We do probabilistic analysis of algorithm finding the correct solution. Let degree(v) is number of edges incident on vetex v. Then since each edge is counted twice, once on each of incident edges, sum of degress of all vertices can be written as
+We do probabilistic analysis of algorithm finding the correct solution. Let degree(v) is number of edges incident on vetex v. Then since each edge is counted twice, once on each of incident edges,hence sum of degress of all vertices is
+
 $$
-\sum_{v\inV} degree(v) = 2 \left| E \right |
+\sum_{v \in V} degree(v) = 2 \left| E \right |
 $$
+
+Average degree of a vertex is given as
+
+$$
+E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
+= \sum_{u \in V} \frac{1}{\left|V\right|} degree(u)
+$$
+$$
+= \frac{1}{\left| V \right|} \sum_{u \in V} degree(u)
+= \frac{2\left| E \right|}{\left| V \right|}
+$$
+
+Given
