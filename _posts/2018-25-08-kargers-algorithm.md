@@ -12,9 +12,7 @@ A set of vertices V along with set of edges E connecting these vertices in is ca
 ![Flights]({{site.baseurl}}/assets/img/flight.png)
 
 ## Minimum Cut
-A cut in an undirected graph $$ G=(V,E) $$ is a partition of the vertices V into two non-empty, disjoint sets $$ S \cup T = V $$. Cutset of cut consits of the only edges connecting the vertcies in S to vertices in T. Number of edges in cutset is called size of cut. The cut with minimum size is called minimum cut.
-
-Each vertex can be in either in set S or set T, hence there are $$ 2^{|V|} $$ cuts. Out of these two sets are empty, also interchanging S and T does not make any difference. Hence total valid cuts are $$ 2^{|V|-1}-1 $$. We need to find cut with minimum size among all cuts.
+A cut in an undirected graph $$ G=(V,E) $$ is a partition of the vertices V into two non-empty, disjoint sets $$ S \cup T = V $$. Cutset of cut consits of the only edges connecting the vertcies in S to vertices in T. Number of edges in cutset is called size of cut. The cut with minimum size is called minimum cut. Each vertex can be in either in set S or set T, hence there are $$ 2^{|V|} $$ cuts. Out of these two sets are empty, also interchanging S and T does not make any difference. Hence total valid cuts are $$ 2^{|V|-1}-1 $$. We need to find cut with minimum size among all cuts.
 
 ## Edge Contraction
 Edge contraction is method to remove an edge from graph and merge its two incident vertcies. For example if we remove edge Delhi-Chandigarh, then new graph will look like
@@ -40,9 +38,21 @@ $$
 E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
 = \sum_{u \in V} \frac{1}{\left|V\right|} degree(u)
 $$
+
+
 $$
 = \frac{1}{\left| V \right|} \sum_{u \in V} degree(u)
+$$
+
+
+$$
 = \frac{2\left| E \right|}{\left| V \right|}
 $$
 
-Given
+Consider cut for V into S and T, where S contains only one vertex u and T contains all other vertices. Size of this cut will be same as degree(u). Since minimum cut can not be greater than this, we can say 
+
+size of minimum cut <= degree(u)
+
+In other words minimum cut is also less than or equal to average degree of vertices in G.
+
+We pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is $$ \frac{2}{|V|}.
