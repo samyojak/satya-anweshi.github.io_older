@@ -35,7 +35,7 @@ $$
 Average degree of a vertex is given as
 
 $$
-E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
+\E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
 $$
 
 
@@ -57,7 +57,7 @@ In other words minimum cut is also less than or equal to average degree of verti
 $$\frac{2|E|}{|V|} $$
 
 
-There are maximum $$\frac{2\|E\|}{\|V\|}$$ edges in minimum cut, selecting an edge from minimum cut out of total has probability at most $$\frac{2}{\|V\|}$$. If we pick an edge randomly, probability it will be in cut have probability at most $$\frac{2}{\|V\|}. 
+There are maximum $$\frac{2\|E\|}{\|V\|}$$ edges in minimum cut, selecting an edge from minimum cut out of total has probability at most $$\frac{2}{\|V\|}$$. If we pick an edge randomly, probability it will be in cut have probability at most $$\frac{2}{\|V\|}$$. If we continue with the algorithm and do edge contraction each time, the probability that edge from cut will not be contracted, which is same as final result to be minimum cut is  
 
 $$ (1 - \frac{2}{|V|}) (1 - \frac{2}{|V|-1} ) (1 - \frac{2}{|V|-2}) (1 - \frac{2}{|V|-3}) .. (1-\frac{2}{4})(1-\frac{2}{3})
 $$
