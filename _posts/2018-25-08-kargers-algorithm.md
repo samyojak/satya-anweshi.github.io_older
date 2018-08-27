@@ -36,14 +36,13 @@ Average degree of a vertex is given as
 
 $$
 E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
+$$
+
+
+$$
 = \sum_{u \in V} \frac{1}{\left|V\right|} degree(u)
-$$
-
-
-$$
 = \frac{1}{\left| V \right|} \sum_{u \in V} degree(u)
 $$
-
 
 $$
 = \frac{2\left| E \right|}{\left| V \right|}
@@ -55,4 +54,4 @@ size of minimum cut <= degree(u)
 
 In other words minimum cut is also less than or equal to average degree of vertices in G.
 
-We pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is $$ \frac{2}{|V|}.
+We pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is $$ \frac{2}{|V|} $$.
