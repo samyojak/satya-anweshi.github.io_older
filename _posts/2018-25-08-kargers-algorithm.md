@@ -54,7 +54,7 @@ size of minimum cut <= degree(u)
 
 In other words minimum cut is also less than or equal to average degree of vertices in G.
 
-size of minimum cut <= $$\frac{2|E|}{|V|} $$
+$$ size of minimum cut <= \frac{2|E|}{|V|} $$
 
 Since there are maximum $$\frac{2|E|}{|V|} edges in minimum cut, selecting an edge from it out of total |E| edges is $$\frac{2}{|V|}$$. If we pick an edge at random and do edge contraction. The probability that edge lies across the cut, i.e one of the incident vertex lies in S and other lies in T is  $$\frac{2}{|V|}$$. Hence edge does not lie in the cut is $$ 1 - \frac{2}{|V|}$$. If we continue with the algorithm and do edge contraction each time, the probability that edge from cut will not be contracted, which is same as final result to be minimum cut is 
 
