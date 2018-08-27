@@ -36,10 +36,12 @@ Average degree of a vertex is given as
 
 $$
 E[degree(v)] = \sum_{u \in V} Pr(v=u) degree(u)
+$$
+$$
 = \sum_{u \in V} \frac{1}{\left|V\right|} degree(u)
-$$
-$$
 = \frac{1}{\left| V \right|} \sum_{u \in V} degree(u)
+$$
+$$
 = \frac{2\left| E \right|}{\left| V \right|}
 $$
 
