@@ -32,6 +32,7 @@ All socities in the world assign or divide labour differently to males and femal
 Primary subsistence activites | Hunt and trap animals | Fish, Herd Large animals, Collect wild honey Clear Land and prepare soil for planting | Collect Sellfish, Care for small animals, Plant crops, Tend crops, Harvest crops, Milk animals | Gather wild plants |
 Secondary subsistnce activites | | Butcher animals | Preserve meat or fish | Care for children, Cook and prepare vegetable foods, drinks, dairy products, Launder, fetch water and collect fuel.|
 Other | Lumber mine and quarry, make boats, musical instruments, bone horn or shell objects | Build houses, Make nets, rope | Prepare skins, make leather products, baskets, mats, clothing, pottery | Spin yarn | 
+
 ---
 
 There have been much of studies on why there is difference in labour division by gender, this is not primary aim of this writeup. The point here is that all socities have similar rule of dividing labour by geneder. The result of product of the labour has to be shared for survival of the society. And to share it, society has to have some mechanism. One solution to this is marriage, which solves the problem of sharing. Howvere we can not say this is the only solution. A group of men and women(such as brother and sisters) can agree to share their product of labour and may cooperate economically. 
