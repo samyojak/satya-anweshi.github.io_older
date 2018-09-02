@@ -16,12 +16,12 @@ In "The History of Human Marriage" Westermarck defined marriage as "a more or le
 
 As per Murdock in "Social Structures" marriage is complex of systems centering upon relationship between sexually associating pair of adults within the family. Marriage defines the manner of establishing and termination such relationship, the normative behaviour and the reciprocal obligations within it, and locally accepted restrictions upon its personnel.
 
-Duran Bell descrbes marriage as "a relationship between one or more men(male or female) in sevarlty to one or more woman that provides those men with a demand right of sexual access within domestic group and identifies woman who bear the obligation of yielding to the demands of those specific men."
+Duran Bell describes marriage as "a relationship between one or more men(male or female) in sevarlty to one or more woman that provides those men with a demand right of sexual access within domestic group and identifies woman who bear the obligation of yielding to the demands of those specific men."
 
-I find what Ember and Ember has discussed in "Anthropology" book more relevant. Marriage is a socially approved sexual and economic union between a man and woman. It is presumed, by both the couple and others to be more or less permanent and it subsumes reciprocal rights and obligations bewteen the two spouses and between spouses and their future children.
+I find what Ember and Ember has discussed in "Anthropology" more relevant. Marriage is a socially approved sexual and economic union between a man and woman. It is presumed, by both the couple and others to be more or less permanent and it subsumes reciprocal rights and obligations between the two spouses and between spouses and their future children.
 
 ## Why is marriage universal?
-Almost, every society in the world has practice of male-female marraige. This is a custom which is practised throughout the world. Societies grew out from different regions, civilizations, religions, races distant from each other without any communications among them. But the custom of marriage exists in all of them. Several ways people have tried to explain why all human societies have custom of marriage. According to Ember and Ember, each of these explaination suggests that *marriage solved problem found in all socitities.*
+Almost, every society in the world has practice of male-female marriage. This is a custom which is practised throughout the world. Societies grew out from different regions, civilizations, religions, races distant from each other without any communications among them. But the custom of marriage exists in all of them. Several ways people have tried to explain why all human societies have custom of marriage. According to Ember and Ember, each of these explaination suggests that *marriage solved problem found in all societies.*
 
 ## Problems found in all societies.
 
@@ -47,3 +47,10 @@ Some scholars have suggested that female sexuality may have created problem in o
 Ember and Ember perfomed study on more than fourty mammal and bird species, none of the three factors above mentioned, predicts or correlates strongly with male-female bonding. Mammals and birds that have longer dependency period or greater female sexuality are less likely to have stable matings. One thing they found interesting is that animal species in which females can feed themeselves and their infants in postpartum period (Birth to 6 weeks) tend not to have stable mating, however for the species females not able to feed during postpartum period to themselves and infants have stable mating. They believe that this is the reason of the marraige in human. In support of their claim they argue that if mother took turns babysitting with other female, neither might be able to collect food enough for both two mothers and two sets of children dependent on them. But a mother and father share same set of children and hence it would be easier to feed themselves and children. Another argument is based on no pair bonding. Lets assume that there is no couple and only group of promiscous group of males and females. They argue in this kind of arrangement a mother can not count on some male to watch her baby while she goes out for food, or bring her food while she had to watch her baby. But this reasearch is based on other animals, which may or may not be applicable to human.
 
 This is still an open ended question and anthropologists across world are working to find answer.
+
+## References
+* Ralph Linton, The Study of Man, New York: Appleton-Century-Crofts, 1936.
+* George Peter Murdock, Social Structure, New York: The Free Press Paperback, 1965.
+* Carol R Ember, Melvin Ember, Anthropology Pearson Education India, 2007.
+* Melvin Ember and Carol R. Ember "Male-Female Bonding: A Cross-Species Study of Mammals and Birds," Behaviour Science Research, 14(1979):37-56.
+* [https://en.m.wikipedia.org/wiki/Marriage](https://en.m.wikipedia.org/wiki/Marriage)

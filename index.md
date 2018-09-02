@@ -12,8 +12,8 @@ I have M.Tech(2017) in Computer Science from [Indian Statistical Institute](http
 * 	Machine Learning
 * 	Optimization and Optimal Control
 * 	Stochastic Calculus
-*       Mathematical Finance
-*       Signal Processing
+*   Mathematical Finance
+*   Signal Processing
 * 	Quantum Mechanics & Computing
 * 	Anthropology & Human Growth
 
