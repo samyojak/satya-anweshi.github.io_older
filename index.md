@@ -15,7 +15,7 @@ I have M.Tech(2017) in Computer Science from [Indian Statistical Institute](http
 *       Mathematical Finance
 *       Signal Processing
 * 	Quantum Mechanics & Computing
-* 	Anthropometry & Human Growth
+* 	Anthropology & Human Growth
 
 I love hindi poetry and urdu ghazals.
 
